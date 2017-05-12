@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar">#000000</color>
+    <color name="body_background">#1b1a1a</color>
+    <color name="body_background_blue">#22a0e9</color>
+    <color name="server_status_bar">#2b2b2b</color>
+    <color name="title_gray">#434343</color>
+    <color name="white">#ffffff</color>
+    <color name="bg_msg_you">#5db6f2</color>
+    <color name="bg_msg_from">#3040a7</color>
+    <color name="msg_border_color">#a1a1a1</color>
+    <color name="bg_btn_join">#2b2c2d</color>
+    <color name="bg_msg_input">#545558</color>
+    <color name="text_msg_input">#ffffff</color>
+    <color name="lblFromName">#777777</color>
+</resources>

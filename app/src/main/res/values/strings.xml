@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="title">Android-WebSockets Instant Messaging Application</string>
+    <string name="author_name">By Wojciech Mazur</string>
+    <string name="author_url">www.WickedMonkStudio.com</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="btn_join">Join</string>
+    <string name="btn_send">Send</string>
+    <string name="server_address_default">192.168.137.1</string>
+    <string name="server_port_default">8080</string>
+
+</resources>
